@@ -1,6 +1,5 @@
 # FutStore · Marketplace de cartas virtuales
 
-<<<<<<< HEAD
 Aplicación web donde los usuarios compran y publican **cartas virtuales de jugadores de fútbol** (con valoración, posición, rareza y estadísticas), inspirada en sitios de comunidad como FUT.GG. Los precios se expresan en monedas virtuales.
 
 ## Enlaces
