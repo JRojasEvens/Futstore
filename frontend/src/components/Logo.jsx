@@ -1,0 +1,10 @@
+// Escudo con balón simplificado (SVG propio)
+export default function Logo({ size = 28 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 32 32" aria-hidden="true">
+      <path d="M16 2l11 4v9c0 7-5 12-11 15C10 27 5 22 5 15V6z" fill="#f2b705" />
+      <circle cx="16" cy="15" r="6" fill="#0b3d2e" />
+      <path d="M16 11l3 2.2-1.1 3.5h-3.8L13 13.2z" fill="#f2b705" />
+    </svg>
+  )
+}

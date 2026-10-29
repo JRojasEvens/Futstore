@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="1000" height="680" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="680" fill="#fff"/><text x="500.0" y="668" font-size="12" text-anchor="middle" fill="#666">Boceto 3 · Inicio de sesión (vista pública)</text><rect x="0" y="0" width="1000" height="52" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="24" y="32" font-size="17" font-weight="bold" text-anchor="start" fill="#222">FutStore (Logo)</text>
+<text x="250" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Tienda</text>
+<text x="750" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Regístrate</text>
+<rect x="850" y="12" width="125" height="28" rx="4" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="912.5" y="30.55" font-size="13" font-weight="normal" text-anchor="middle" fill="#222">Iniciar sesión</text>
+<rect x="300" y="120" width="400" height="400" rx="6" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="500" y="170" font-size="22" font-weight="bold" text-anchor="middle" fill="#222">Inicia sesión</text>
+<text x="330" y="209" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Correo electrónico</text>
+<rect x="330" y="215" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="330" y="284" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Contraseña</text>
+<rect x="330" y="290" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<rect x="330" y="360" width="340" height="42" rx="4" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="500.0" y="385.55" font-size="13" font-weight="bold" text-anchor="middle" fill="#fff">Entrar</text>
+<text x="500" y="435" font-size="11" font-weight="normal" text-anchor="middle" fill="#b00020">Mensaje de error si las credenciales no son válidas</text>
+<text x="500" y="480" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">¿No tienes cuenta? Regístrate</text></svg>

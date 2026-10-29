@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="1000" height="680" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="680" fill="#fff"/><text x="500.0" y="668" font-size="12" text-anchor="middle" fill="#666">Boceto 2 · Registro de usuarios (vista pública)</text><rect x="0" y="0" width="1000" height="52" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="24" y="32" font-size="17" font-weight="bold" text-anchor="start" fill="#222">FutStore (Logo)</text>
+<text x="250" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Tienda</text>
+<text x="750" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Regístrate</text>
+<rect x="850" y="12" width="125" height="28" rx="4" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="912.5" y="30.55" font-size="13" font-weight="normal" text-anchor="middle" fill="#222">Iniciar sesión</text>
+<rect x="300" y="80" width="400" height="540" rx="6" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="500" y="125" font-size="22" font-weight="bold" text-anchor="middle" fill="#222">Crea tu cuenta</text>
+<text x="330" y="154" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Nombre de usuario</text>
+<rect x="330" y="160" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="330" y="219" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Correo electrónico</text>
+<rect x="330" y="225" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="330" y="284" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Contraseña</text>
+<rect x="330" y="290" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="330" y="349" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Repetir contraseña</text>
+<rect x="330" y="355" width="340" height="34" rx="3" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="330" y="420" font-size="12" font-weight="bold" text-anchor="start" fill="#222">Foto de perfil (opcional)</text>
+<rect x="330" y="432" width="70" height="70" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="330" y1="432" x2="400" y2="502" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="400" y1="432" x2="330" y2="502" stroke="#c9c9c9" stroke-width="1"/>
+<text x="365.0" y="471.0" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<rect x="415" y="455" width="140" height="32" rx="4" fill="#fff" stroke="#2e7d32" stroke-width="1"/>
+<text x="485.0" y="475.55" font-size="13" font-weight="bold" text-anchor="middle" fill="#2e7d32">Subir imagen</text>
+<rect x="330" y="525" width="340" height="42" rx="4" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="500.0" y="550.55" font-size="13" font-weight="bold" text-anchor="middle" fill="#fff">Registrarme</text>
+<text x="500" y="590" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">¿Ya tienes cuenta? Inicia sesión</text></svg>

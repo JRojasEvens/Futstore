@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="1000" height="680" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="680" fill="#fff"/><text x="500.0" y="668" font-size="12" text-anchor="middle" fill="#666">Boceto 8 · Mi perfil – pestaña Mis favoritos (vista privada)</text><rect x="0" y="0" width="1000" height="52" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="24" y="32" font-size="17" font-weight="bold" text-anchor="start" fill="#222">FutStore (Logo)</text>
+<text x="250" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Tienda</text>
+<text x="330" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Publicar carta</text>
+<text x="700" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Mi perfil</text>
+<circle cx="785" cy="26" r="15" fill="#c9c9c9" stroke="#8a8a8a"/>
+<text x="810" y="32" font-size="13" font-weight="normal" text-anchor="start" fill="#222">Cerrar sesión</text>
+<rect x="30" y="70" width="940" height="150" rx="0" fill="#f2f2f2" stroke="#8a8a8a" stroke-width="1"/>
+<circle cx="105" cy="145" r="45" fill="#c9c9c9" stroke="#8a8a8a"/>
+<text x="105" y="150" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<text x="175" y="125" font-size="22" font-weight="bold" text-anchor="start" fill="#222">nombre_usuario</text>
+<text x="175" y="150" font-size="13" font-weight="normal" text-anchor="start" fill="#555">correo@ejemplo.com</text>
+<text x="175" y="175" font-size="12" font-weight="normal" text-anchor="start" fill="#666">Miembro desde 2026</text>
+<rect x="800" y="110" width="150" height="36" rx="4" fill="#fff" stroke="#2e7d32" stroke-width="1"/>
+<text x="875.0" y="132.55" font-size="13" font-weight="bold" text-anchor="middle" fill="#2e7d32">Editar perfil</text>
+<rect x="800" y="158" width="150" height="36" rx="4" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="875.0" y="180.55" font-size="13" font-weight="bold" text-anchor="middle" fill="#fff">+ Nueva publicación</text>
+<rect x="30" y="240" width="180" height="36" rx="0" fill="#fff" stroke="#8a8a8a" stroke-width="1"/>
+<text x="120.0" y="262.55" font-size="13" font-weight="normal" text-anchor="middle" fill="#222">Mis publicaciones</text>
+<rect x="220" y="240" width="180" height="36" rx="0" fill="#2e7d32" stroke="#8a8a8a" stroke-width="1"/>
+<text x="310.0" y="262.55" font-size="13" font-weight="normal" text-anchor="middle" fill="#fff">Mis favoritos</text>
+<line x1="30" y1="276" x2="970" y2="276" stroke="#8a8a8a" stroke-width="1"/>
+<rect x="30" y="300" width="170" height="235" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="330" font-size="22" font-weight="bold" text-anchor="start" fill="#222">90</text>
+<text x="42" y="348" font-size="11" font-weight="normal" text-anchor="start" fill="#555">DEL</text>
+<rect x="81.0" y="314" width="105.4" height="105.75" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="81.0" y1="314" x2="186.4" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="186.4" y1="314" x2="81.0" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<text x="133.7" y="370.875" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<line x1="40" y1="445.7" x2="190" y2="445.7" stroke="#c9c9c9" stroke-width="1"/>
+<text x="115.0" y="469.2" font-size="12" font-weight="bold" text-anchor="middle" fill="#222">Jugador 1</text>
+<text x="115.0" y="492.7" font-size="9" font-weight="normal" text-anchor="middle" fill="#666">PAC SHO PAS DRI</text>
+<text x="115.0" y="523" font-size="11" font-weight="bold" text-anchor="middle" fill="#2e7d32">6.900 monedas</text>
+<text x="115" y="555" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">Quitar de favoritos</text>
+<rect x="220" y="300" width="170" height="235" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="232" y="330" font-size="22" font-weight="bold" text-anchor="start" fill="#222">89</text>
+<text x="232" y="348" font-size="11" font-weight="normal" text-anchor="start" fill="#555">DEL</text>
+<rect x="271.0" y="314" width="105.4" height="105.75" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="271.0" y1="314" x2="376.4" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="376.4" y1="314" x2="271.0" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<text x="323.7" y="370.875" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<line x1="230" y1="445.7" x2="380" y2="445.7" stroke="#c9c9c9" stroke-width="1"/>
+<text x="305.0" y="469.2" font-size="12" font-weight="bold" text-anchor="middle" fill="#222">Jugador 2</text>
+<text x="305.0" y="492.7" font-size="9" font-weight="normal" text-anchor="middle" fill="#666">PAC SHO PAS DRI</text>
+<text x="305.0" y="523" font-size="11" font-weight="bold" text-anchor="middle" fill="#2e7d32">6.900 monedas</text>
+<text x="305" y="555" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">Quitar de favoritos</text>
+<rect x="410" y="300" width="170" height="235" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="422" y="330" font-size="22" font-weight="bold" text-anchor="start" fill="#222">88</text>
+<text x="422" y="348" font-size="11" font-weight="normal" text-anchor="start" fill="#555">DEL</text>
+<rect x="461.0" y="314" width="105.4" height="105.75" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="461.0" y1="314" x2="566.4" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="566.4" y1="314" x2="461.0" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<text x="513.7" y="370.875" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<line x1="420" y1="445.7" x2="570" y2="445.7" stroke="#c9c9c9" stroke-width="1"/>
+<text x="495.0" y="469.2" font-size="12" font-weight="bold" text-anchor="middle" fill="#222">Jugador 3</text>
+<text x="495.0" y="492.7" font-size="9" font-weight="normal" text-anchor="middle" fill="#666">PAC SHO PAS DRI</text>
+<text x="495.0" y="523" font-size="11" font-weight="bold" text-anchor="middle" fill="#2e7d32">6.900 monedas</text>
+<text x="495" y="555" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">Quitar de favoritos</text>
+<rect x="600" y="300" width="170" height="235" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="612" y="330" font-size="22" font-weight="bold" text-anchor="start" fill="#222">87</text>
+<text x="612" y="348" font-size="11" font-weight="normal" text-anchor="start" fill="#555">DEL</text>
+<rect x="651.0" y="314" width="105.4" height="105.75" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="651.0" y1="314" x2="756.4" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="756.4" y1="314" x2="651.0" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<text x="703.7" y="370.875" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<line x1="610" y1="445.7" x2="760" y2="445.7" stroke="#c9c9c9" stroke-width="1"/>
+<text x="685.0" y="469.2" font-size="12" font-weight="bold" text-anchor="middle" fill="#222">Jugador 4</text>
+<text x="685.0" y="492.7" font-size="9" font-weight="normal" text-anchor="middle" fill="#666">PAC SHO PAS DRI</text>
+<text x="685.0" y="523" font-size="11" font-weight="bold" text-anchor="middle" fill="#2e7d32">6.900 monedas</text>
+<text x="685" y="555" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">Quitar de favoritos</text>
+<rect x="790" y="300" width="170" height="235" rx="8" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="802" y="330" font-size="22" font-weight="bold" text-anchor="start" fill="#222">86</text>
+<text x="802" y="348" font-size="11" font-weight="normal" text-anchor="start" fill="#555">DEL</text>
+<rect x="841.0" y="314" width="105.4" height="105.75" rx="0" fill="#e0e0e0" stroke="#8a8a8a" stroke-width="1"/>
+<line x1="841.0" y1="314" x2="946.4" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<line x1="946.4" y1="314" x2="841.0" y2="419.75" stroke="#c9c9c9" stroke-width="1"/>
+<text x="893.7" y="370.875" font-size="12" font-weight="normal" text-anchor="middle" fill="#666">Foto</text>
+<line x1="800" y1="445.7" x2="950" y2="445.7" stroke="#c9c9c9" stroke-width="1"/>
+<text x="875.0" y="469.2" font-size="12" font-weight="bold" text-anchor="middle" fill="#222">Jugador 5</text>
+<text x="875.0" y="492.7" font-size="9" font-weight="normal" text-anchor="middle" fill="#666">PAC SHO PAS DRI</text>
+<text x="875.0" y="523" font-size="11" font-weight="bold" text-anchor="middle" fill="#2e7d32">6.900 monedas</text>
+<text x="875" y="555" font-size="12" font-weight="normal" text-anchor="middle" fill="#2e7d32">Quitar de favoritos</text></svg>
