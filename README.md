@@ -7,8 +7,8 @@ Aplicación web donde los usuarios compran y publican **cartas virtuales de juga
 
 | | |
 |---|---|
-| **Deploy (Vercel)** | **https://REEMPLAZAR-CON-TU-LINK.vercel.app** |
-| **Repositorio (GitHub)** | https://github.com/REEMPLAZAR-USUARIO/futstore |
+| **Deploy (Vercel)** | **https://futstore-two.vercel.app** |
+| **Repositorio (GitHub)** | https://github.com/JRojasEvens/Futstore |
 
 > **Para probarla rápido:** entra al deploy e inicia sesión con la cuenta de demostración `demo@futstore.cl` / `12345678`, o crea tu propia cuenta desde "Regístrate".
 
@@ -38,7 +38,7 @@ React 19 · Vite · React Router · Context API · Bootstrap y React Bootstrap �
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/REEMPLAZAR-USUARIO/futstore.git
+git clone https://github.com/JRojasEvens/Futstore.git
 cd futstore/frontend
 
 # 2. Instalar dependencias
